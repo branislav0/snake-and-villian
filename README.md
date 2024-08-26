@@ -8,7 +8,7 @@ Feel free to explore, provide feedback, and have fun playing!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gameplay
 Check out the gameplay video below:
-[gameplay video]https://github.com/Branino-codino/snake-and-villian/blob/master/gameplay.gif
+https://github.com/Branino-codino/snake-and-villian/blob/master/gameplay.gif
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Setup Instructions
 To ensure everything runs smoothly, make sure to install the following libraries. This will prevent your code from turning into a "404 Not Found" error at the party! 🎉👨‍💻

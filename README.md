@@ -2,7 +2,7 @@ Welcome to My Game Project! 🎮
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I've been working on this game for the past month, pouring my creativity and coding skills into it. It’s been an exciting journey, and I’m thrilled to share it with you.
 
-As I continue to develop new games in the future, I plan to incorporate constructors to streamline my code and enhance functionality. Stay tuned for more updates and improvements!
+As I continue to develop new games in the future, I plan to incorporate constructors, classes to streamline my code and enhance functionality. Stay tuned for more updates and improvements!
 
 Feel free to explore, provide feedback, and have fun playing!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

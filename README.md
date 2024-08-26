@@ -6,5 +6,6 @@ Important!!!
 dowload all these libraries:
 -------------------------------
 pip install pillow
+-------------------------------
 pip install pygame
 -------------------------------

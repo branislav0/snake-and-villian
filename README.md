@@ -15,5 +15,16 @@ To ensure everything runs smoothly, make sure to install the following libraries
 
 pip install pillow
 pip install pygame
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Game Rules
+
+1. **Scoring**: Each hit with a bullet earns you 10 points.
+2. **Ammo Drops**: When you reach 50 points, you receive an ammo drop.
+3. **Speed Increase**: For every 50 points scored, the snake's speed will increase.
+4. **Teleportation**: You can teleport to the opposite side of the map from either side.
+5. **Game Over**: The game ends when you run out of bullets. You must kill at least 5 snakes per ammo clip to continue.
+
+
 Enjoy the game and happy coding!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

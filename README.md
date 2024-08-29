@@ -10,12 +10,7 @@ Gameplay
 Check out the gameplay video below:
 https://github.com/Branino-codino/snake-and-villian/blob/master/gameplay.gif
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Setup Instructions
-To ensure everything runs smoothly, make sure to install the following libraries. This will prevent your code from turning into a "404 Not Found" error at the party! 🎉👨‍💻
-
-pip install pillow
-pip install pygame
-
+Error at the party! 🎉👨‍💻
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Game Rules
 

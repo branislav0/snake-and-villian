@@ -7,8 +7,8 @@ As I continue to develop new games in the future, I plan to incorporate construc
 Feel free to explore, provide feedback, and have fun playing!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gameplay
-Check out the gameplay video below:
-https://github.com/branislav0/snake-and-villian/blob/master/gameplaygif2.gif
+Check out the gameplay video on this [link](https://github.com/branislav0/snake-and-villian/blob/master/gameplaygif2.gif):
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Error at the party! 🎉👨‍💻
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
